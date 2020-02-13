@@ -13,8 +13,7 @@ This Site will contain links to useful materials for COde 102 class.
 
 >[Mastering Markdown](https://guides.github.com/features/mastering-markdown/) 
 
->[Githubformatting](https://help.github.com/en/github/writing-on-github/ 
-basic-writing-and-formatting-syntax) 
+>[Githubformatting](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) 
 
 >[Reinstalling Ubuntu](https://codefellows.github.io/code-201-prework/prework/windows/02_WSL_Ubuntu_setup.html) 
 
