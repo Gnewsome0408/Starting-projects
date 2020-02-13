@@ -1,5 +1,5 @@
 # Learning Journal
-This Site will contain links to useful materials for COde 102 class.
+This Site will contain links to useful materials for Code 102 class.
 ### Table of contents
 >[Things to keep in mind for markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links) 
 
