@@ -22,10 +22,4 @@ This Site will contain links to useful materials for Code 102 class.
 one # equals h1  
 bold a word with **  
 Italics is *  
-create nest notes with >  
-
-## useful resources
->https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax 
->https://guides.github.com/features/mastering-markdown/ 
-
-
+create lists with >  
