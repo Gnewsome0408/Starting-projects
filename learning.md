@@ -21,6 +21,8 @@ This Site will contain links to useful materials for Code 102 class.
 #### Growth Mindset
 >[Your Growth Mindset](https://gnewsome0408.github.io/demo-projects/growth) 
 
+#### Git Tutorial
+>[Complete Blog Post](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/) 
 
 ##### things to keep in mind
 one # equals h1  
