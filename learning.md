@@ -27,6 +27,9 @@ This Site will contain links to useful materials for Code 102 class.
 #### Developer Roadmap
 >[Flowchart](https://github.com/kamranahmedse/developer-roadmap)
 
+#### Plan Your Website
+>[Design & Process](https://gnewsome0408.github.io/demo-projects/design)
+
 ##### things to keep in mind
 one # equals h1  
 bold a word with **  
