@@ -30,6 +30,9 @@ This Site will contain links to useful materials for Code 102 class.
 #### Plan Your Website
 >[Design & Process](https://gnewsome0408.github.io/demo-projects/design)
 
+#### Intro to HTML
+>[First HTML](https://gnewsome0408.github.io/demo-projects/HTMLIntro.html)
+
 ##### things to keep in mind
 one # equals h1  
 bold a word with **  
