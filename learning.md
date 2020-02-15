@@ -33,6 +33,9 @@ This Site will contain links to useful materials for Code 102 class.
 #### Intro to HTML
 >[First HTML](https://gnewsome0408.github.io/demo-projects/HTMLIntro.html)
 
+#### CSS Intro
+>[CSS and Colour](https://gnewsome0408.github.io/demo-projects/CSScolours)
+
 ##### things to keep in mind
 one # equals h1  
 bold a word with **  
