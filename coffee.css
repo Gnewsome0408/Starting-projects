@@ -1,0 +1,71 @@
+header {
+    background-color: rgb(122, 92, 7);
+    margin: 0;
+    padding: 20px;
+    color: #fff;
+    text-align: center;
+}
+
+span {
+    text-decoration: ;
+}
+
+nav {
+    padding: 20px;
+    width: 35%;
+    background-color: rgb(234, 99, 36);
+}
+
+main {
+    display: inline-flex;
+}
+
+
+img {
+    width: 40%;
+}
+
+.coffee {
+    display: inherit;
+
+    background: yellow;
+}
+
+p {
+    padding: 20px;
+    ;
+}
+
+body {
+
+    margin: auto;
+    margin-top: -20px;
+    padding: 0;
+
+}
+
+div {
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(122, 92, 7);
+}
+
+ul {
+    list-style: none;
+}
+
+a:link {
+    color: rgb(245, 206, 147);
+}
+
+li {
+    margin-bottom: 10px;
+    background: red;
+    padding: 5px;
+    border-radius: 5px;
+    ;
+}

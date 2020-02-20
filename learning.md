@@ -40,4 +40,5 @@ This Site will contain links to useful materials for Code 102 class.
 >[Examples of JS](https://gnewsome0408.github.io/Javascript/class6)
 
 ##### Javascript & JQuery
+>[Programming in JS](https://gnewsome0408.github.io/Javascript/Class7)
 
