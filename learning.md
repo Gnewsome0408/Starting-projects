@@ -36,8 +36,8 @@ This Site will contain links to useful materials for Code 102 class.
 #### CSS Intro
 >[CSS and Colour](https://gnewsome0408.github.io/demo-projects/CSScolours)
 
-##### things to keep in mind
-one # equals h1  
-bold a word with **  
-Italics is *  
-create lists with >  
+##### Javascript Intro
+>[Examples of JS](https://gnewsome0408.github.io/Javascript/class6)
+
+##### Javascript & JQuery
+
