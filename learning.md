@@ -42,3 +42,5 @@ This Site will contain links to useful materials for Code 102 class.
 ##### Javascript & JQuery
 >[Programming in JS](https://gnewsome0408.github.io/Javascript/Class7)
 
+##### Operators & Loop
+>[Types of loops & operators](https://gnewsome0408.github.io/Javascript/Class8.html)
